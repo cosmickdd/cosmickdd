@@ -47,38 +47,31 @@
     </td>
   </tr></table>
 
-  <!-- Skills bar (visual but simple) -->
-  <div style="max-width:720px;margin:18px auto 6px;font-family:monospace;">
-    <div style="display:flex;gap:10px;align-items:center;justify-content:center;">
-      <div style="min-width:40px;text-align:right">JS</div>
-      <div style="background:#2d2d2d;border-radius:6px;overflow:hidden;width:320px;height:12px;">
-        <div style="width:40%;height:12px;background:#f6c85f;"></div>
-      </div>
-      <div style="min-width:36px;text-align:left">40%</div>
-    </div>
-    <div style="display:flex;gap:10px;align-items:center;justify-content:center;margin-top:6px;">
-      <div style="min-width:40px;text-align:right">TS</div>
-      <div style="background:#2d2d2d;border-radius:6px;overflow:hidden;width:320px;height:12px;">
-        <div style="width:25%;height:12px;background:#7dd3fc;"></div>
-      </div>
-      <div style="min-width:36px;text-align:left">25%</div>
-    </div>
-    <div style="display:flex;gap:10px;align-items:center;justify-content:center;margin-top:6px;">
-      <div style="min-width:40px;text-align:right">Py</div>
-      <div style="background:#2d2d2d;border-radius:6px;overflow:hidden;width:320px;height:12px;">
-        <div style="width:15%;height:12px;background:#9ae6b4;"></div>
-      </div>
-      <div style="min-width:36px;text-align:left">15%</div>
-    </div>
+ | Skill | Progress |
+|---:|:---|
+| JS  | ██████████░░░░░░ 40% |
+| TS  | ███████░░░░░░░░░ 25% |
+| Py  | ███░░░░░░░░░░░░░ 15% |
+
+  
+
+  <div style="font-size:0.85em;color:#888;margin-top:10px;text-align:center;">
+    Quick skill snapshot — approximate percentages based on recent work.
   </div>
+    <a href="mailto:hello@cosmickdd.dev" aria-label="Email">
+    <img src="https://img.shields.io/badge/Email-hello@cosmickdd.dev-orange?style=flat" alt="email" />
+  </a>
+  <a href="https://twitter.com/cosmickdd" aria-label="X / Twitter" style="margin-left:8px">
+    <img src="https://img.shields.io/badge/X-@cosmickdd-1DA1F2?style=flat" alt="twitter" />
+  </a>
+  <a href="https://github.com/cosmickdd" aria-label="GitHub" style="margin-left:8px">
+    <img src="https://img.shields.io/badge/GitHub-cosmickdd-181717?style=flat" alt="github" />
+  </a>
+</div>
 
-  <!-- Contact row (compact) -->
-  <p style="margin-top:12px">
-    <a href="mailto:hello@cosmickdd.dev"><img src="https://img.shields.io/badge/Email-hello@cosmickdd.dev-orange?style=flat" alt="email"></a>
-    <a href="https://twitter.com/cosmickdd" style="margin-left:8px"><img src="https://img.shields.io/badge/X-@cosmickdd-1DA1F2?style=flat" alt="twitter"></a>
-    <a href="https://github.com/cosmickdd" style="margin-left:8px"><img src="https://img.shields.io/badge/GitHub-cosmickdd-181717?style=flat" alt="github"></a>
-  </p>
+<!-- Contact row (compact, centered) -->
+<div style="margin-top:12px;text-align:center;">
 
-  <p style="font-size:0.9em;color:#888;margin-top:6px">Want screenshots wired to projects? Drop images into <code>assets/</code> and replace the hero. This file is a polished UI draft — copy into <code>README.md</code> when ready.</p>
+  </div>
 
 </div>
