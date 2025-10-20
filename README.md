@@ -94,52 +94,60 @@ I design and build web interfaces that feel simple and performant. I experiment 
 
 ## ⭐ Featured work
 
-### 1) Interactive UI primitives — studio
+### Rapidophilia — Trek (rapidophilia.com/trek)
 
-Small, accessible components used across product demos. Clean API, documented examples, and design tokens for theming. [View repo](https://github.com/cosmickdd) · [Live demo](#)
+Full-featured trek details, booking, ticketing and management software for travel companies. Includes itinerary builder, booking flows, ticket QR generation, and a lightweight admin dashboard for operators. [Live concept](https://rapidophilia.com/trek) · [Repo](https://github.com/cosmickdd/rapidophilia)
 
-### 2) Personalization ML — UX experiment
+### OCR — Image text recognition model
 
-Lightweight ML model that adapts small UI elements to user preferences. Focus on explainability and performance. [Read more](#)
+An OCR model tailored for messy travel receipts and handwritten notes. Built with practical preprocessing and lightweight backbone for edge deployment. [Repo](https://github.com/cosmickdd/ocr-repo)
 
-### 3) Travel log — map storytelling
+### Classification model — quick deploy
 
-Map-driven app that surfaces stories, photos and short notes from trips. Good for travel diaries and portfolios. [Try demo](#)
+Small, fast classification model (PyTorch/TF) used for UX personalization experiments and A/B style feature flags. [Repo](https://github.com/cosmickdd/classify)
 
-If you'd like specific projects linked here, tell me which repos to highlight and I’ll wire direct links and screenshots.
+### Gov UI — CarbonSetu admin portal
 
----
-
-## 🎯 What I enjoy
-
-- Building polished UI interactions that feel fast and obvious.
-- Using small ML models to subtly improve UX without compromising privacy.
-- Rapid prototyping in Figma and turning prototypes into production-ready components.
-- Traveling — finding local cafes and inspiration.
+A fully functional government-style admin portal for CarbonSetu: user roles, audits, dashboards, and policy workflows designed for clarity and compliance. [Designs & demo](https://github.com/cosmickdd/carbonsetu)
 
 ---
 
-## 📫 Find me everywhere
+## 🎥 Demo (gif loop)
 
-<p>
-	<a href="https://github.com/cosmickdd"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-cosmickdd-181717?logo=github&logoColor=white" /></a>
-	<a href="https://twitter.com/cosmickdd"><img alt="Twitter" src="https://img.shields.io/badge/X-@cosmickdd-1DA1F2?logo=twitter&logoColor=white" /></a>
-	<a href="https://www.linkedin.com/in/cosmickdd"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-cosmickdd-0A66C2?logo=linkedin&logoColor=white" /></a>
-	<a href="https://instagram.com/cosmickdd"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-cosmickdd-E1306C?logo=instagram&logoColor=white" /></a>
-	<a href="https://www.youtube.com/c/cosmickdd"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-cosmickdd-FF0000?logo=youtube&logoColor=white" /></a>
-	<a href="https://mastodon.social/@cosmickdd"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-@cosmickdd-6364FF?logo=mastodon&logoColor=white" /></a>
+<p align="center">
+	<!-- Replace assets/hero.gif with your looping demo GIF to show here -->
+	<a href="https://youtu.be/VIDEO_ID"><img src="assets/hero_placeholder.svg" alt="demo thumbnail" width="900" style="max-width:100%;border-radius:12px;" /></a>
+</p>
+
+Click to open the demo (replace `VIDEO_ID` with your video id). Drop a file at `cosmickdd/assets/hero.gif` to replace the placeholder with a looping GIF.
+
+---
+
+<details>
+	<summary>More (fun facts & extras)</summary>
+
+- Travel note: currently plotting a map of micro-interaction inspirations.
+- Favorite snack while coding: strong coffee and small biscuits.
+- Want screenshots wired to projects? I can auto-add thumbnails from repo `README`s.
+
+</details>
+
+---
+
+## 📊 Live widgets
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=cosmickdd&show_icons=true&theme=radical" alt="github stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmickdd&layout=compact&theme=radical" alt="top langs" />
 </p>
 
 ---
 
-## 🔧 Replace the visuals
+## � Where to find me
 
-- Drop a looping hero GIF at `cosmickdd/assets/hero.gif` (recommended ~1200×500) to replace the placeholder SVG.
-- Replace the YouTube demo image: update the `VIDEO_ID` in the repo to your video id.
-- If you want live GitHub stats or WakaTime cards, I can add the widgets and an Actions workflow to refresh periodically.
+<p>
+	<a href="https://github.com/cosmickdd">GitHub</a> · <a href="https://twitter.com/cosmickdd">X</a> · <a href="https://www.linkedin.com/in/cosmickdd">LinkedIn</a> · <a href="https://www.youtube.com/c/cosmickdd">YouTube</a>
+</p>
 
----
-
-_If you want me to commit these changes to a branch (`readme-redesign`) and add screenshots/real project links, say the word and I'll do it._
 
 
