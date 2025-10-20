@@ -51,65 +51,61 @@ A quick snapshot of recent places (replace with your own images or a travel map)
 ## 💬 Connect
 
 - Portfolio: https://cosmickdd.github.io or https://example.com
-<!-- compact, horizontal, playful README -->
+<!-- compact, centered, horizontal README -->
 
-<p align="center">
+<div align="center">
 	<a href="https://github.com/cosmickdd"><img src="https://img.shields.io/github/followers/cosmickdd?label=Follow&style=social" alt="followers"/></a>
 	<a href="https://github.com/cosmickdd?tab=repositories"><img src="https://img.shields.io/badge/Repos-41-blue" alt="repos"/></a>
 	<a href="https://github.com/cosmickdd?tab=repositories"><img src="https://img.shields.io/badge/Stars-2-brightgreen" alt="stars"/></a>
 	<a href="mailto:hello@cosmickdd.dev"><img src="https://img.shields.io/badge/Email-hello@cosmickdd.dev-orange" alt="email"/></a>
-</p>
+</div>
 
-<table width="100%"><tr>
-	<td width="60%">
-		<h1>Utkarsh Tiwari <small>(cosmickdd)</small></h1>
-		<p><em>UI engineer • ML tinkerer • product-minded • collects UI ideas from airports</em></p>
-		<p>
-			<strong>Quick hits:</strong>
-			<span>• Rapidophilia (trek booking)</span>
-			<span>• OCR receipts</span>
-			<span>• CarbonSetu admin</span>
-		</p>
-	</td>
-	<td align="center">
-		<!-- visual/demo: replace with assets/hero.gif for loop -->
-		<a href="https://youtu.be/VIDEO_ID"><img src="assets/hero_placeholder.svg" width="320" alt="demo" style="border-radius:10px;"/></a>
-	</td>
-</tr></table>
+<h1 align="center">Utkarsh Tiwari <small>(cosmickdd)</small></h1>
+<p align="center"><em>UI engineer • ML tinkerer • product-minded • collects UI ideas from airports</em></p>
+
+<div align="center">
+	<!-- visual/demo: replace with assets/hero.gif for loop -->
+	<a href="https://youtu.be/VIDEO_ID"><img src="assets/hero_placeholder.svg" width="420" alt="demo" style="border-radius:12px;"/></a>
+</div>
 
 ---
 
-<p align="center">
-	<a href="https://github.com/cosmickdd/rapidophilia">Rapidophilia →</a>
-	&nbsp;·&nbsp;
-	<a href="https://github.com/cosmickdd/ocr-repo">OCR model →</a>
-	&nbsp;·&nbsp;
-	<a href="https://github.com/cosmickdd/classify">Classifier →</a>
-	&nbsp;·&nbsp;
-	<a href="https://github.com/cosmickdd/carbonsetu">CarbonSetu →</a>
-</p>
-
-<details>
-	<summary>More (click to expand)</summary>
-	<ul>
-		<li>Rapidophilia: trek details + booking + QR tickets — full-stack travel ops.</li>
-		<li>OCR: receipts & notes — lightweight, deployable on-device.</li>
-		<li>Gov UI: admin portal with audits, roles, dashboards.</li>
-	</ul>
-</details>
+<!-- Featured projects: horizontal showcase -->
+<table align="center">
+	<tr>
+		<td align="center" width="220">
+			<strong>Rapidophilia</strong>
+			<p style="max-width:200px">Trek booking & operations — bookings, QR tickets, itineraries.</p>
+			<p><a href="https://github.com/cosmickdd/rapidophilia">Repo →</a></p>
+		</td>
+		<td align="center" width="220">
+			<strong>OCR</strong>
+			<p style="max-width:200px">Image text recognition for receipts & notes; edge-friendly.</p>
+			<p><a href="https://github.com/cosmickdd/ocr-repo">Repo →</a></p>
+		</td>
+		<td align="center" width="220">
+			<strong>Classifier</strong>
+			<p style="max-width:200px">Fast classification model for UX experiments.</p>
+			<p><a href="https://github.com/cosmickdd/classify">Repo →</a></p>
+		</td>
+		<td align="center" width="220">
+			<strong>CarbonSetu</strong>
+			<p style="max-width:200px">Admin portal: roles, audits, dashboards, compliance.</p>
+			<p><a href="https://github.com/cosmickdd/carbonsetu">Repo →</a></p>
+		</td>
+	</tr>
+</table>
 
 ---
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=cosmickdd&show_icons=true&theme=radical" alt="stats" style="max-width:360px;" />
-	&nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmickdd&layout=compact&theme=radical" alt="langs" style="max-width:240px;" />
-</p>
+<!-- Skills: dynamic languages visual -->
+<div align="center">
+	<h3>Top languages</h3>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmickdd&layout=compact&theme=radical" alt="top langs" />
+</div>
 
-<p align="center">
-	<a href="https://github.com/cosmickdd">GitHub</a> · <a href="https://twitter.com/cosmickdd">X</a> · <a href="https://www.linkedin.com/in/cosmickdd">LinkedIn</a> · <a href="https://www.youtube.com/c/cosmickdd">YouTube</a>
-</p>
+<p align="center"><a href="https://github.com/cosmickdd">GitHub</a> · <a href="https://twitter.com/cosmickdd">X</a> · <a href="https://www.linkedin.com/in/cosmickdd">LinkedIn</a> · <a href="https://www.youtube.com/c/cosmickdd">YouTube</a></p>
 
-<p align="center"><em>Want this tweaked? Say which project to highlight or drop a hero GIF into <code>cosmickdd/assets/hero.gif</code>.</em></p>
+<p align="center"><em>Drop a hero GIF at <code>cosmickdd/assets/hero.gif</code> or tell me which project to highlight and I'll wire screenshots.</em></p>
 
 
