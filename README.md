@@ -9,6 +9,46 @@
 
 ## 👨‍💻 About
 
+
+<!-- One-shot compact, playful README -->
+<div align="center">
+	<h1>Utkarsh Tiwari <small>(cosmickdd)</small></h1>
+	<p><em>UI engineer • ML tinkerer • product-minded • collects UI ideas from airports</em></p>
+
+	<!-- animated buttons (CSS not supported in GitHub, but badges act as buttons) -->
+	<p>
+		<a href="https://github.com/cosmickdd/rapidophilia"><img src="https://img.shields.io/badge/🚀 Rapidophilia-Trek-blue?style=for-the-badge" alt="Rapidophilia"/></a>
+		<a href="https://github.com/cosmickdd/ocr-repo"><img src="https://img.shields.io/badge/🧾 OCR-Receipts-orange?style=for-the-badge" alt="OCR"/></a>
+		<a href="https://github.com/cosmickdd/classify"><img src="https://img.shields.io/badge/⚡ Classifier-Fast-green?style=for-the-badge" alt="Classifier"/></a>
+		<a href="https://github.com/cosmickdd/carbonsetu"><img src="https://img.shields.io/badge/🏛 CarbonSetu-Admin-dark?style=for-the-badge" alt="CarbonSetu"/></a>
+	</p>
+
+	<!-- demo placeholder -->
+	<p>
+		<a href="https://youtu.be/VIDEO_ID"><img src="assets/hero_placeholder.svg" width="640" alt="demo" style="border-radius:12px;"/></a>
+	</p>
+
+	<!-- small visual: languages bar (ASCII fallback) -->
+	<pre style="text-align:left;display:inline-block;background:#0b1220;color:#9bd; padding:8px;border-radius:8px;">
+JS     ██████████ 40%
+TS     ██████      25%
+Py     ████        15%
+Other  ███         20%
+	</pre>
+
+	<p style="margin-top:12px;">Quick, focused projects — small repos, real demos, zero fluff.</p>
+
+	<p>
+		<a href="mailto:hello@cosmickdd.dev"><img src="https://img.shields.io/badge/Email-hello@cosmickdd.dev-orange?style=for-the-badge" alt="email"/></a>
+		<a href="https://twitter.com/cosmickdd"><img src="https://img.shields.io/badge/X-@cosmickdd-1DA1F2?style=for-the-badge" alt="X"/></a>
+		<a href="https://github.com/cosmickdd"><img src="https://img.shields.io/badge/GitHub-cosmickdd-181717?style=for-the-badge" alt="github"/></a>
+	</p>
+
+	<p style="font-style:italic;color:#9aa">Want screenshots, or prefer a different punchline? Say the word — I'll tweak it in one shot.</p>
+</div>
+
+
+
 I build delightful web experiences, experiment with machine learning models, and design interfaces with accessibility and simplicity in mind. I also travel frequently and bring those experiences back into product design.
 
 - 🔭 I’m currently working on: exploring ML-driven UX tools and a small portfolio of interactive web components.
