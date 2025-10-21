@@ -15,7 +15,7 @@
 
   <!-- Hero (replace assets/hero.gif for animated demo) -->
   <a href="https://youtu.be/VIDEO_I" title="Click for demo">
-    <img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="demo" style="width:100%;max-width:820px;border-radius:12px;margin-top:12px;"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdwbDU2NHM2MWtwazc0ZmN0aW8xcnJhdXV6YW5jNGZ2M3lxZnU2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12g53gdURkojug/giphy.webp"/>
   </a>
 
   <!-- Featured projects (compact cards) -->
