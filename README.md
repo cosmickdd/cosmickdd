@@ -3,7 +3,7 @@
 
   <!-- Header -->
   <h1 style="margin-bottom:6px">Utkarsh Tiwari <small style="font-size:0.6em">(cosmickdd)</small></h1>
-  <p style="margin-top:0;color:#666;max-width:720px">UI engineer • ML tinkerer • product-minded — I build small, focused projects with real demos and zero fluff.</p>
+  <p style="margin-top:0;color:#666;max-width:720px">UI/UX designer • ML tinkerer • product-minded — I build small, focused projects with real demos and zero fluff.</p>
 
   <!-- Action badges -->
   <p style="margin-top:10px">
@@ -14,7 +14,7 @@
   </p>
 
   <!-- Hero (replace assets/hero.gif for animated demo) -->
-  <a href="https://youtu.be/VIDEO_ID" title="Click for demo">
+  <a href="https://youtu.be/VIDEO_I" title="Click for demo">
     <img src="assets/hero_placeholder.svg" alt="demo" style="width:100%;max-width:820px;border-radius:12px;margin-top:12px;"/>
   </a>
 
