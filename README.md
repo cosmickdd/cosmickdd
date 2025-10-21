@@ -15,7 +15,7 @@
 
   <!-- Hero (replace assets/hero.gif for animated demo) -->
   <a href="https://youtu.be/VIDEO_I" title="Click for demo">
-    <img src="assets/hero_placeholder.svg" alt="demo" style="width:100%;max-width:820px;border-radius:12px;margin-top:12px;"/>
+    <img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="demo" style="width:100%;max-width:820px;border-radius:12px;margin-top:12px;"/>
   </a>
 
   <!-- Featured projects (compact cards) -->
